@@ -1,0 +1,18 @@
+    .better {
+        font-family: Verdana, "DejaVu Sans", sans-serif ;
+        background-color: rgb(250, 163, 163) ;
+
+    }
+    #nu2 {
+        color: rgb(0, 0, 250);
+        font-size: 36px;
+    }
+
+    .font {
+        font-size: 24px;
+    }
+    #nu4 {
+        background-color: rgb(158, 252, 158);
+        font-size: 24px;
+        font-weight: bold;
+    }
